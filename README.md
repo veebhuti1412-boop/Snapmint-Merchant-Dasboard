@@ -5,3 +5,4 @@ A self-serve analytics portal for Snapmint merchant partners. Gives merchants re
 
 Built as a product proposal and interactive prototype for Snapmint's product leadership team.
 
+Stack: React · Recharts · shadcn/ui · Tailwind CSS
